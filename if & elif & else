@@ -1,0 +1,9 @@
+age = int(input('momxmareblist asaki: '))
+if age < 10:
+    print('shen xar dzalian axalgazrda')
+elif age >10 and age <20:
+    print('shen xar tineigeri')
+elif age >20 and age <50:
+    print('shen xar asakovani')
+else:
+    print('shen xar moxuci')
