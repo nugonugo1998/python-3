@@ -1,0 +1,7 @@
+name = input('momxmareblis saxeli: ')
+gvari = input('momxmareblis gvari: ')
+age = input('momxmareblis asakiL: ')
+full_name=name+' '+gvari
+M= 2018 - int(age)
+print('gamarjoba batono '+full_name+' '+'tqven xart '+age+' '+'wlis')
+print('tqven daibadet '+str(M)+' '+'wels')
