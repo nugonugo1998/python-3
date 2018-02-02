@@ -1,0 +1,3 @@
+xlist = list(range(0,10))
+for elementi in xlist:
+    print('X'*elementi+' '*(len(xlist)-elementi))
