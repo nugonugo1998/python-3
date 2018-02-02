@@ -1,0 +1,30 @@
+foods = ['xinkali', 'qababi', 'mwvadi', 'lobio']
+
+
+#for food in foods:
+#    print(food)
+
+#for food in foods[1:3]:
+#    print(food)
+
+
+#for food in foods:
+#    if food == 'xinkali':
+#        print(f'{food} - qalaquri')
+#    else:
+#        print(food)
+
+#for food in foods:
+#    if food == 'xinkali':
+#        print(f'{food} - qalaquri')
+#    elif food == 'qababi':
+#        print(f'{food} - goris xorcit')
+#    else:
+#        print(food)
+
+for food in foods:
+    if food == 'mwvadi':
+        print(f'{food} - sheshaze shemwvari')
+        break
+    else:
+        print(food)
